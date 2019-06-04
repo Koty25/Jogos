@@ -1,5 +1,6 @@
 //Bibliotecas:
 #include <iostream>
 #include <string>
-#include "Functions.h"
 
+
+void PrintIntro();

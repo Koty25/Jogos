@@ -1,9 +1,10 @@
 //Bibliotecas:
 #include <iostream>
 #include <string>
-#include "Functions.h"
 #include <ctime>
-
+extern "C" {
+#include "Functions.h"
+}
 
 
 //main

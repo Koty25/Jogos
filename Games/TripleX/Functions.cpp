@@ -1,7 +1,9 @@
 //Bibliotecas:
 #include <iostream>
 #include <string>
+extern "C" {
 #include "Functions.h"
+}
 
 //PlayGame
 bool PlayGame(int *PlayerWill, int Difficulty){
